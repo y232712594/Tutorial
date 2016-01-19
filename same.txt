@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 same 1
+=======
+same 2
+>>>>>>> refs/remotes/origin/test-branch2
